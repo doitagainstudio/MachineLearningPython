@@ -1,6 +1,6 @@
 # **COURSERA MACHINE LEARNING** #
 ## *Python Edition* ## 
-## *Ex.1 - Linear Regression* ##
+## *Ex.2_part1 - Linear Regression* ##
 ***A Jupyter Notebook by Cristiano Esposito ©2021***
 
 <p>Following the Machine Learning course by Andrew Ng on Coursera, here is the Week 2 assignment coded in Python instead of Octave.
